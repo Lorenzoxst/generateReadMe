@@ -31,12 +31,12 @@ ${renderLicenseBadge(data.license)}
 ## Description
 ${data.description}
 ## Table of contents
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Tests](#tests)
-[Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 ## Installation 
 ${data.install}
 ## Usage
@@ -50,7 +50,7 @@ ${data.contribution}
 ## Tests
 ${data.test}
 ## Questions
-[Link to my GitHub] (https://github.com/${data.github}/)
+[Link to my GitHub](https://github.com/${data.github}/)
 For any questions, you can reach me at my email: ${data.email}.
 `
 ;
